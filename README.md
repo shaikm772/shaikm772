@@ -1,4 +1,4 @@
-![logo](https://github.com/shaikm772/shaikm772/blob/main/syzsjlkj.jpg)
+1[logo](https://github.com/shaikm772/shaikm772/blob/main/syzsjlkj.jpg)
 <h1 align="center">Hi 👋, I'm Shaik Maheboob</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
